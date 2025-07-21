@@ -1,0 +1,1 @@
+# Task 1: Data Redundancy Removal System\nThis system prevents duplicate entries and verifies email format before adding.
